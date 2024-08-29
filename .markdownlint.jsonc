@@ -1,0 +1,30 @@
+{
+	// Permite múltiples encabezados de primer nivel (útil para títulos de diapositivas)
+	"MD025": false,
+
+	// Desactiva la regla de longitud de línea (las diapositivas a menudo requieren líneas más largas)
+	"MD013": false,
+
+	// Permite HTML en línea (Slidev usa HTML para características avanzadas)
+	"MD033": false,
+
+	// Permite líneas en blanco múltiples (útil para separar contenido en diapositivas)
+	// "MD012": false,
+
+	// Desactiva la advertencia sobre enlaces vacíos (útil para navegación entre diapositivas)
+	// "MD042": false,
+
+	// Permite el uso de emojis y otros caracteres especiales en encabezados
+	"MD026": false,
+
+	// Permite listas de una sola línea (común en diapositivas para puntos breves)
+	"MD030": false
+
+	// Desactiva la necesidad de agregar dos espacios para un salto de línea
+	// "MD009": false,
+
+	// Permite el uso de comillas rectas (') en lugar de comillas tipográficas (')
+	// "MD049": false
+
+	// Comentarios adicionales sobre la configuración...
+}
